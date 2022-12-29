@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Portfolio Web Site**
 
-- 🌱 I’m currently learning **MEARN**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **HTML, CSS, JAVA Script**
 
