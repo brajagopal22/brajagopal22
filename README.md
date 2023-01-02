@@ -1,4 +1,3 @@
-[![MasterHead](https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif)](https://brajagopal22.io)
 
 <h1 align="center">Hi 👋, I'm Brajagopal Tripathi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
