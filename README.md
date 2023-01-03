@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Brajagopal Tripathi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://www.eklavvya.com/wp-content/uploads/2022/04/animation_500_l2erhlca-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brajagopal22&label=Profile%20views&color=0e75b6&style=flat" alt="brajagopal22" /> </p>
